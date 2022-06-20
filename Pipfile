@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 toml = "==0.10"
-<ADD-YOUR-DEPENDENCIES-HERE>
+<INSERT-YOUR-DEPENDENCIES>
 
 [dev-packages]
 black = "*"
