@@ -1,4 +1,4 @@
-# Please insert your algo as python functions to be translated into taipy tasks here.
+# Please insert your python functions to be translated into taipy tasks here.
 #
 # Here is an example:
 #
