@@ -4,8 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-toml = "==0.10"
-<INSERT-YOUR-DEPENDENCIES>
+taipy = "==1.1.0"
+# <INSERT-YOUR-DEPENDENCIES>
 
 [dev-packages]
 black = "*"

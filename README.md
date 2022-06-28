@@ -18,9 +18,16 @@ Taipy is a Python library for creating Business Applications. More information o
 
 ## Directory Structure
 
-- `demo-<INSERT-DEMO-NAME>/`:
-    - `src/`: Contains the demo source code.
-    - `tests/`: Contains the demo tests.
+- `src/`: Contains the demo source code.
+  - `src/algos`: Contains the functions to be executed as tasks by Taipy.
+  - `src/config`: Contains the configuration files.
+  - `src/data`: Contains the application data files.
+  - `src/images`: Contains the application image files.
+  - `src/pages`: Contains the page definition files.
+- `tests/`: Contains the demo tests.
+  - `tests/algos`: Contains the algo tests.
+  - `tests/config`: Contains the configuration tests.
+  - `tests/pages`: Contains the page definition tests.
 - `CODE_OF_CONDUCT.md`: Code of conduct for members and contributors of _demo-<INSERT-DEMO-NAME>_.
 - `CONTRIBUTING.md`: Instructions to contribute to _demo-<INSERT-DEMO-NAME>_.
 - `INSTALLATION.md`: Instructions to install _demo-<INSERT-DEMO-NAME>_.
